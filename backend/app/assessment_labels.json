@@ -1,0 +1,16 @@
+{
+  "complexity": {
+    "1": "Low",
+    "2": "Low",
+    "3": "Moderate",
+    "4": "High",
+    "5": "Very high"
+  },
+  "readiness": {
+    "1": "Needs work",
+    "2": "Needs work",
+    "3": "Needs clarification",
+    "4": "Mostly clear",
+    "5": "Ready for review"
+  }
+}
